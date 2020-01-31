@@ -1,1 +1,1 @@
--- ls -l
+echo ls -l
